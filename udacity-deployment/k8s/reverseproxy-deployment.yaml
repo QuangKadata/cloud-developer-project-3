@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: reverseproxy-node
-          image: letruongvu233/udagram-reverseproxy:v1
+          image: quangdv8/udagram-reverseproxy:v1
           imagePullPolicy: Always
           resources:
             requests:

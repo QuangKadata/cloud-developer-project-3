@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: backend-feed-node
-          image: letruongvu233/udagram-api-feed:v1
+          image: quangdv8/udagram-api-feed:v1
           imagePullPolicy: Always
           resources:
             requests:

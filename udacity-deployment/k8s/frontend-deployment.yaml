@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: frontend-node
-          image: toliv22/udagram-frontend:v2a
+          image: quangdv8/udagram-frontend:v2a
           imagePullPolicy: Always
           ports:
             - containerPort: 80
